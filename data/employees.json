@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Pepe",
+        "address": "321",
+        "locality": "Bogota",
+        "contacts": "No",
+        "health_status": "Buena",
+        "comorbidities": "No",
+        "covid_positive": "No",
+        "severity": "X",
+        "history": [
+            {
+                "fecha": "2025-06-03",
+                "temperatura": 36.0,
+                "estado_animo": "Buena",
+                "contacto_con_infectado": "No",
+                "puede_asistir": true
+            }
+        ]
+    },
+    {
+        "name": "Pedro",
+        "address": "456",
+        "locality": "Bogota",
+        "contacts": "Esposa, 3Hijos",
+        "health_status": "Media",
+        "comorbidities": "Si",
+        "covid_positive": "Si",
+        "severity": "Mala",
+        "history": [
+            {
+                "fecha": "2025-06-03",
+                "temperatura": 38.0,
+                "estado_animo": "Decaido",
+                "contacto_con_infectado": "Si",
+                "puede_asistir": false
+            }
+        ]
+    },
+    {
+        "name": "Calorine",
+        "address": "654",
+        "locality": "Bogota",
+        "contacts": "Hermano Madre",
+        "health_status": "Buena",
+        "comorbidities": "No",
+        "covid_positive": "No",
+        "severity": "X",
+        "history": [
+            {
+                "fecha": "2025-06-03",
+                "temperatura": 36.0,
+                "estado_animo": "Buena",
+                "contacto_con_infectado": "No",
+                "puede_asistir": true
+            }
+        ]
+    }
+]
